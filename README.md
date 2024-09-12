@@ -78,3 +78,16 @@ plot gps data from /fix(sensor_msgs/NavSatFix) topic in kml format
 #### plot_characteristic_curve.py
 plot characteristic curve  in .eps and .jpeg format
 ![plotted characteristic curve](https://github.com/hakuturu583/ros_ship_packages/blob/master/images/characteristic_curve.jpg)
+
+
+## more repo
+[ros_ship_packages](https://github.com/OUXT-Polaris/ros_ship_packages
+https://gitee.com/eric-young0227/ros_ship_packages?_from=gitee_search
+
+https://github.com/disaster-robotics-proalertas/usv_sim_lsa
+https://gitee.com/fyo/usv_sim_lsa?_from=gitee_search
+
+https://github.com/heron/heron_simulator
+https://gitee.com/stfshuai/heron_simulator?_from=gitee_search
+
+https://github.com/bsb808/usv_gazebo_plugins)
